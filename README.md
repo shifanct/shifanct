@@ -27,12 +27,22 @@ As an AI/ML diploma student, I have hands-on experience in supervised learning a
 <br>
 
 
-## My Skill Set  
+## 🚀 My Skill Set  
 
-- **Programming Languages:** Python
-- **Libraries:** pandas, NumPy, seaborn, matplotlib
-- **Deployment Frameworks:** Flask, Gradio, Streamlit
-- **Machine Learning Algorithms:** Linear Regression, Decision Trees
+- 🎯 **<span style="color:#FFD700">Programming Languages:</span>**  
+  - 🐍 <span style="color:#3776AB"><strong>Python</strong></span>  
+
+- 📊 **<span style="color:#32CD32">Libraries:</span>**  
+  - 📦 <span style="color:#150458"><strong>pandas</strong></span>, 🔢 <span style="color:#013243"><strong>NumPy</strong></span>  
+  - 🎨 <span style="color:#00A6D6"><strong>seaborn</strong></span>, 📉 <span style="color:#11557C"><strong>matplotlib</strong></span>  
+
+- 🌐 **<span style="color:#FF5733">Deployment Frameworks:</span>**  
+  - ⚡ <span style="color:#000000"><strong>Flask</strong></span>, 🎮 <span style="color:#FF4F00"><strong>Gradio</strong></span>, 🚀 <span style="color:#FF4B3A"><strong>Streamlit</strong></span>  
+
+- 🤖 **<span style="color:#1E90FF">Machine Learning Algorithms:</span>**  
+  - 📈 <span style="color:#FFA500"><strong>Linear Regression</strong></span>, 🌳 <span style="color:#32CD32"><strong>Decision Trees</strong></span>  
+
+🔥 **Always learning, innovating, and building intelligent solutions!** 🚀  
 
 
 
