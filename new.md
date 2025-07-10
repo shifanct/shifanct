@@ -1,59 +1,24 @@
-<h2 align="center">
-  hello everyone, ı am shifan
-</h2>
-
-<br>
-
+<!-- Animated Banner -->
 <p align="center">
-  <img height="100" src="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=006ff6&bar_color_cover=false" alt="aarda spotify gitHub profiles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Muhammed+Shifan+%F0%9F%91%8B;Backend+Developer+%7C+AI+Explorer;Python+Developer+%7C+Data+Engineer" />
+</p>
+
+
+### 📈 Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaMohod&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaMohod&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/created-at/ardadasdelen/ardadasdelen?style=flat&labelColor=gray&color=blue" alt="GitHub Created Date" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaMohod&theme=github_dark" width="95%"/>
 </p>
 
-<br>
+---
 
+### 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammed-shifan)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamohod754@gmail.com)
 
-<p align="center">
-   <a href="https://bit.ly/ardadasdelen">
-   <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
-   </a>
-
-
-
-
-<h3 align="center">
-Check out more about me
-</h3>
-<div align="center">
-  <details>
-    <summary>Click to Expand</summary>
-    <p align="center">
-      aarda ᯅ is a prominent individual in the technology world, possessing deep knowledge and a unique approach in the fields of cybersecurity, social engineering, and software development. His awareness of digital security keeps him aligned with ethical hacking principles, while his interest in social media analysis and strategic perspective highlights his strong ability to assess environmental risks and opportunities. However, this analytical capability may pose potential risks to data privacy and requires careful management.
-<br> 
-aarda ᯅ's analytical intelligence showcases his ability to view situations from different perspectives and solve complex problems effectively. His skills in manipulation and persuasion provide him with an edge, particularly in social engineering practices, while the ethical use of these talents demonstrates his sense of responsibility.
-<br>
-In his personal life, his dedication to order, symmetry, and cleanliness makes him a disciplined and reliable partner in any collaborative environment. His unwavering habit of waking up early every morning and his effective time management skills play a key role in his daily productivity. However, his commitment to high standards and perfectionism might occasionally create internal pressure.
-<br>
-aarda ᯅ also possesses a strong artistic and emotional side. His appreciation for music and literature enriches his life, while his commitment to supporting his sibling's development regularly makes him a source of inspiration for those around him. His desire to share and teach his technical knowledge underlines his role not just as an expert but also as a mentor.
-<br>
-With a broad skill set that spans social media automation, mobile devices, and desktop software, Arda's technical expertise further strengthens his influence in these areas. Yet, the ethical boundaries that frame his powerful intellect and abilities highlight his accountability as an individual, both personally and socially.
-<br>
-In conclusion, aarda ᯅ is a name that consistently adds value to both his environment and himself while striking a delicate balance between technology and life.
-<br>
-It was created with the help of artificial intelligence and its unique memory.
-    </p>
-    <p align="center">
-      <strong>Age:</strong> 18,7 <br>
-      <strong>Country:</strong> Türkiye 🇹🇷
-    </p>
-  </details>
-</div>
-
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
-</p>
+---
