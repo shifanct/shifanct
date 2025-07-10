@@ -52,14 +52,7 @@ Check out more about me
 <div align="center">
   <details>
     <summary>Click to Expand</summary>
-	  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width=600>
-    <p align="center">
-      aarda ᯅ
-    </p>
-    <p align="center">
-      <strong>Age:</strong> 18,7 <br>
-      <strong>Country:</strong> Türkiye 🇹🇷
-    </p>
+	 I'm passionate about building intelligent systems that solve real-world problems. I have a strong foundation in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision. I enjoy working with data, finding patterns, and creating smart solutions using Python. I'm always curious to learn new technologies and improve my skills in the field of AI.
   </details>
 </div>
 
