@@ -24,3 +24,23 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedshifan475@gmail.com)
 
 ---
+
+<h3 align="center">
+Check out more about me
+</h3>
+<div align="center">
+  <details>
+    <summary>Click to Expand</summary>
+    <p align="center">
+      aarda ᯅ
+    </p>
+    <p align="center">
+      <strong>Age:</strong> 18,7 <br>
+      <strong>Country:</strong> Türkiye 🇹🇷
+    </p>
+  </details>
+</div>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
