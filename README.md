@@ -31,6 +31,7 @@ Check out more about me
 <div align="center">
   <details>
     <summary>Click to Expand</summary>
+	  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width=600>
     <p align="center">
       aarda ᯅ
     </p>
@@ -41,7 +42,7 @@ Check out more about me
   </details>
 </div>
 
-<p align="center">
+<p align="left">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
